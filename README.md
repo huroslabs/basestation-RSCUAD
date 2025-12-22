@@ -1,6 +1,6 @@
 ## Basestation-RSCUAD
 > base for communication Robot RSCUAD soccer mode. <br>
-> we decided to migrate to GO-lang for efficiency. if you still want to use nodejs please checkout V1.0.1
+> we decided to migrate to Golang for efficiency. if you still want to use nodejs please checkout V1.0.1
 
 
 ### Screenshot
